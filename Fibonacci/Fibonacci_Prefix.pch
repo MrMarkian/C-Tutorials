@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Fibonacci' target in the 'Fibonacci' project.
+//
+
+#include <Carbon/Carbon.h>
+#include "HIFramework.h"
+#include "TApplication.h"
+#include "TWindow.h"

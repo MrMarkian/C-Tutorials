@@ -1,0 +1,5 @@
+/Users/manicmoscow/FriendClasses/main.cpp:95: error: 'Partslist' does not name a type
+/Users/manicmoscow/FriendClasses/main.cpp:125: error: ISO C++ forbids declaration of 'Partslist' with no type
+/Users/manicmoscow/FriendClasses/main.cpp:125: error: expected ';' before '&' token
+/Users/manicmoscow/FriendClasses/main.cpp:132: error: expected `;' before '}' token
+/Users/manicmoscow/FriendClasses/main.cpp:135: error: 'Partslist' does not name a type
